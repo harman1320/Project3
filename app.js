@@ -7,3 +7,6 @@ function sum(a, b) {
 }
 
 sum(a, b);
+
+let sum2 = (a,b) => (a+b);
+sum2(a,b);
